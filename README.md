@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9914f824-5d4b-4df8-80bb-385e1005ed1d/deploy-status)](https://app.netlify.com/sites/happyshop/deploys)
+
+
 ## Lesson-8
 
 Starting our sign in section by creating a new sign in and sign up page, as well as start creating sign in component.
